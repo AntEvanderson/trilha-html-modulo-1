@@ -1,16 +1,11 @@
-# Trilha HTML - Dio.me
-## Módulo 01 - Primeiros passos com HTML
+# PRIMEIRO PROJETO HTML
 
-A ideia deste desafio é elaborar um website, utilizando uma estrutura bem básica, utilizando tags aprendidas durante as aulas práticas até então. 
+Olá sou Evanderson, Estou comerçando minha caminhada no mundo da programação, Sou estudante de ADS e Estou no Bootcamp Da DIO.
 
-Utilizar todas as tags explicadas nas aulas: `<h1>` até `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<sub>`, `<sup>`, `<blockquote>`
+#conecte-se comigo
 
-Utilizar novas tags sugeridas: `<font>`, `<del>`, `<p>`, `<abbr>` (a ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-evanderson-de-melo-barros-436438270/)
 
-Importante dizer que, estas tags te "seguirão" durante TODO O CURSO, por isso, é bom que esteja bem aprendidas para aproveitarem ao máximo as próximas aulas.
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntEvanderson)
 
-Este desafio vai fazer com que tenha dúvidas, o que é ótimo! Aos poucos você vai evoluindo na sua jornada.
-
-Após concluído este desafio! Siga para o <strong>Módulo II - Conceitos Básicos.</strong>
-
-Nos vemos lá!
+Projeto foi para repassar o conteúdo ministrado em aula, usando as tags e criar um blog sobre HTML.
