@@ -9,3 +9,6 @@ Olá sou Evanderson, Estou comerçando minha caminhada no mundo da programação
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntEvanderson)
 
 Projeto foi para repassar o conteúdo ministrado em aula, usando as tags e criar um blog sobre HTML.
+
+
+![Captura de tela 2024-07-17 160808](https://github.com/user-attachments/assets/776065dd-c31b-4eba-89cc-68d17c96510f)
